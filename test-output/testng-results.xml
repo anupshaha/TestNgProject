@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="SampleSuite" duration-ms="26" started-at="2019-12-31T05:09:20Z" finished-at="2019-12-31T05:09:20Z">
+  <suite name="SampleSuite" duration-ms="33" started-at="2019-12-31T10:54:59 IST" finished-at="2019-12-31T10:54:59 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="26" started-at="2019-12-31T05:09:20Z" finished-at="2019-12-31T05:09:20Z">
+    <test name="Test" duration-ms="33" started-at="2019-12-31T10:54:59 IST" finished-at="2019-12-31T10:54:59 IST">
       <class name="Sample.TestNgProject.WelcomeTest">
-        <test-method status="PASS" signature="PrintWelcomeTest()[pri:0, instance:Sample.TestNgProject.WelcomeTest@4678c730]" name="PrintWelcomeTest" duration-ms="8" started-at="2019-12-31T05:09:20Z" finished-at="2019-12-31T05:09:20Z">
+        <test-method status="PASS" signature="PrintWelcomeTest()[pri:0, instance:Sample.TestNgProject.WelcomeTest@1d16f93d]" name="PrintWelcomeTest" duration-ms="7" started-at="2019-12-31T10:54:59 IST" finished-at="2019-12-31T10:54:59 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintWelcomeTest -->
